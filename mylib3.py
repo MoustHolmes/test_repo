@@ -1,3 +1,3 @@
 
 def MyFunction():
-  print ('My imported function3')
+  print ('My imported function IS NOW CHANGED!!!')
